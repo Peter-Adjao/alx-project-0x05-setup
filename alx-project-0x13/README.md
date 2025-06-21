@@ -1,4 +1,4 @@
-# alx-project-0x09
+# alx-project-0x13
 # 🚀 Advance Image Generation App – 
  
 A dynamic image generation app built with **Next.js**, **TypeScript**, and **Tailwind CSS**, leveraging **React Hooks** and GPT-4 API simulation. This project demonstrates how to manage application state with `useState`, handle user input, and structure a scalable frontend for AI-powered image prompts.
@@ -6,7 +6,7 @@ A dynamic image generation app built with **Next.js**, **TypeScript**, and **Tai
 ---
 
 ## 📁 Project Structure
-alx-project-0x12/
+alx-project-0x13/
 │
 ├── components/
 │   ├── common/
@@ -32,8 +32,6 @@ alx-project-0x12/
 │
 └── .env.local                          # Environment variables (GPT API key)
 
-
----
 
 ## Key Features
 
